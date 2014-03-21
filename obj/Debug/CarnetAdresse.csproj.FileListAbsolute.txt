@@ -1,0 +1,6 @@
+c:\users\mousse\documents\visual studio 2012\Projects\CarnetAdresse\CarnetAdresse\bin\Debug\CarnetAdresse.exe.config
+c:\users\mousse\documents\visual studio 2012\Projects\CarnetAdresse\CarnetAdresse\bin\Debug\CarnetAdresse.exe
+c:\users\mousse\documents\visual studio 2012\Projects\CarnetAdresse\CarnetAdresse\bin\Debug\CarnetAdresse.pdb
+c:\users\mousse\documents\visual studio 2012\Projects\CarnetAdresse\CarnetAdresse\obj\Debug\CarnetAdresse.csprojResolveAssemblyReference.cache
+c:\users\mousse\documents\visual studio 2012\Projects\CarnetAdresse\CarnetAdresse\obj\Debug\CarnetAdresse.exe
+c:\users\mousse\documents\visual studio 2012\Projects\CarnetAdresse\CarnetAdresse\obj\Debug\CarnetAdresse.pdb
